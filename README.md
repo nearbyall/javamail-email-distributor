@@ -1,0 +1,1 @@
+A thread-safe version of the email manager on JavaMail
